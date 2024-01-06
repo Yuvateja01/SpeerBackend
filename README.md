@@ -1,4 +1,6 @@
 # Speer Backend - Note Taking Application (Node.js, Express, MongoDB)
+Postman Collection of all the requests [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/8938113-51a4393a-0b83-4d1f-94ea-809d6e336526?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D8938113-51a4393a-0b83-4d1f-94ea-809d6e336526%26entityType%3Dcollection%26workspaceId%3D77ba5f77-21e5-40d9-8f4c-08754df90f7c)
+
 
 Speer Backend is a note-taking backend built with Node.js using Express for handling server requests, MongoDB for data storage, JWT for authentication, and rate limiting using middleware. It also includes MongoDB text index search, testing using Mocha and Chai, and input validation via Zod.
 
